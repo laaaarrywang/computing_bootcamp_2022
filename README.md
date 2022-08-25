@@ -1,4 +1,4 @@
-# DSS Computing Bootcamp 2022
+# DSS xComputing Bootcamp 2022
 
 This repository contains the computing bootcamp materials for incoming
 Ph.D. and M.S. students to the Department of Statistical Science at
